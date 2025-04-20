@@ -1,0 +1,55 @@
+[03/02/2021 23:40:08]  Set server to us-east6701.discord.media
+[03/02/2021 23:40:08]  State change: StandBy
+[03/02/2021 23:40:08]  Connecting to us-east6701.discord.media
+[03/02/2021 23:40:08]  State change: Connecting
+[03/02/2021 23:40:09] [0] Holepunching
+[03/02/2021 23:40:09] [0] Selecting protocol
+[03/02/2021 23:40:10] [0] State change: Authenticated
+[03/02/2021 23:40:10] [0] Authenticated
+[03/02/2021 23:40:12] [0] Killing
+[03/02/2021 23:40:12] [0] State change: Dead
+[03/02/2021 23:40:12] [0] Closed. Code: 3000, reason: Closed by client
+[03/02/2021 23:40:12] [0] State change: StandBy
+[03/02/2021 23:40:29]  Set server to us-east6701.discord.media
+[03/02/2021 23:40:29]  State change: StandBy
+[03/02/2021 23:40:29]  Connecting to us-east6701.discord.media
+[03/02/2021 23:40:29]  State change: Connecting
+[03/02/2021 23:40:31] [1] Holepunching
+[03/02/2021 23:40:31] [1] Selecting protocol
+[03/02/2021 23:40:31] [1] State change: Authenticated
+[03/02/2021 23:40:31] [1] Authenticated
+[03/02/2021 23:40:31] [1] Changed channel from 634805870420557836 to 634805870420557836
+[03/02/2021 23:40:31]  Set server to eu-central4144.discord.media
+[03/02/2021 23:40:31]  State change: StandBy
+[03/02/2021 23:40:57] [1] Closed. Code: 3000, reason: Closed by client
+[03/02/2021 23:40:57] [1] State change: StandBy
+[03/02/2021 23:41:03]  Set server to us-east6701.discord.media
+[03/02/2021 23:41:03]  State change: StandBy
+[03/02/2021 23:41:03]  Connecting to us-east6701.discord.media
+[03/02/2021 23:41:03]  State change: Connecting
+[03/02/2021 23:41:04] [2] Holepunching
+[03/02/2021 23:41:04] [2] Selecting protocol
+[03/02/2021 23:41:04] [2] State change: Authenticated
+[03/02/2021 23:41:04] [2] Authenticated
+[03/02/2021 23:41:06] [2] Closed. Code: 3000, reason: Closed by client
+[03/02/2021 23:41:06] [2] State change: StandBy
+[03/02/2021 23:41:12]  Set server to us-east6701.discord.media
+[03/02/2021 23:41:12]  State change: StandBy
+[03/02/2021 23:41:12]  Connecting to us-east6701.discord.media
+[03/02/2021 23:41:12]  State change: Connecting
+[03/02/2021 23:41:12] [3] Holepunching
+[03/02/2021 23:41:13] [3] Selecting protocol
+[03/02/2021 23:41:13] [3] State change: Authenticated
+[03/02/2021 23:41:13] [3] Authenticated
+[03/02/2021 23:41:14] [3] Closed. Code: 3000, reason: Closed by client
+[03/02/2021 23:41:14] [3] State change: StandBy
+[03/02/2021 23:41:16]  Set server to us-east6701.discord.media
+[03/02/2021 23:41:16]  State change: StandBy
+[03/02/2021 23:41:16]  Connecting to us-east6701.discord.media
+[03/02/2021 23:41:16]  State change: Connecting
+[03/02/2021 23:41:17] [4] Holepunching
+[03/02/2021 23:41:17] [4] Selecting protocol
+[03/02/2021 23:41:18] [4] State change: Authenticated
+[03/02/2021 23:41:18] [4] Authenticated
+[03/02/2021 23:41:22] [4] Closed. Code: 3000, reason: Closed by client
+[03/02/2021 23:41:22] [4] State change: StandBy

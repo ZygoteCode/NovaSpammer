@@ -1,0 +1,33 @@
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaSpammer\Project\NovaSpammer\obj\Debug\MainForm.resources
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaSpammer\Project\NovaSpammer\obj\Debug\NovaSpammer.Properties.Resources.resources
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaSpammer\Project\NovaSpammer\obj\Debug\NovaSpammer.csproj.GenerateResource.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaSpammer\Project\NovaSpammer\obj\Debug\NovaSpammer.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaSpammer\Project\NovaSpammer\bin\Debug\NovaSpammer.exe.config
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaSpammer\Project\NovaSpammer\bin\Debug\NovaSpammer.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaSpammer\Project\NovaSpammer\bin\Debug\NovaSpammer.pdb
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaSpammer\Project\NovaSpammer\bin\Debug\Anarchy.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaSpammer\Project\NovaSpammer\bin\Debug\Leaf.xNet.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaSpammer\Project\NovaSpammer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaSpammer\Project\NovaSpammer\bin\Debug\websocket-sharp.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaSpammer\Project\NovaSpammer\bin\Debug\Leaf.xNet.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaSpammer\Project\NovaSpammer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaSpammer\Project\NovaSpammer\obj\Debug\NovaSpammer.csproj.CopyComplete
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaSpammer\Project\NovaSpammer\obj\Debug\NovaSpammer.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaSpammer\Project\NovaSpammer\obj\Debug\NovaSpammer.pdb
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaSpammer\Project\NovaSpammer\obj\Debug\NovaSpammer.csprojAssemblyReference.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaSpammer\UNDETECTED PROJECT\NovaSpammer\bin\Debug\NovaSpammer.exe.config
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaSpammer\UNDETECTED PROJECT\NovaSpammer\bin\Debug\NovaSpammer.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaSpammer\UNDETECTED PROJECT\NovaSpammer\bin\Debug\NovaSpammer.pdb
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaSpammer\UNDETECTED PROJECT\NovaSpammer\bin\Debug\Anarchy.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaSpammer\UNDETECTED PROJECT\NovaSpammer\bin\Debug\Leaf.xNet.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaSpammer\UNDETECTED PROJECT\NovaSpammer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaSpammer\UNDETECTED PROJECT\NovaSpammer\bin\Debug\websocket-sharp.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaSpammer\UNDETECTED PROJECT\NovaSpammer\bin\Debug\Leaf.xNet.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaSpammer\UNDETECTED PROJECT\NovaSpammer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaSpammer\UNDETECTED PROJECT\NovaSpammer\obj\Debug\MainForm.resources
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaSpammer\UNDETECTED PROJECT\NovaSpammer\obj\Debug\NovaSpammer.Properties.Resources.resources
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaSpammer\UNDETECTED PROJECT\NovaSpammer\obj\Debug\NovaSpammer.csproj.GenerateResource.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaSpammer\UNDETECTED PROJECT\NovaSpammer\obj\Debug\NovaSpammer.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaSpammer\UNDETECTED PROJECT\NovaSpammer\obj\Debug\NovaSpammer.csproj.CopyComplete
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaSpammer\UNDETECTED PROJECT\NovaSpammer\obj\Debug\NovaSpammer.exe
+C:\Users\utente\Desktop\Computer\Developing\Progetti\NovaGriefing\NovaSpammer\UNDETECTED PROJECT\NovaSpammer\obj\Debug\NovaSpammer.pdb
